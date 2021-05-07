@@ -1,0 +1,63 @@
+
+body{
+    background-color: dimgray;
+}
+.content{
+    background-color: cadetblue;
+    width: 250px;
+    height: 590px;
+    color: ghostwhite;
+    
+    
+}
+.content img{
+    width: 200px;
+    margin: 10px 25px;
+    text-align: center;
+   
+}
+.content .h1{
+    float: left;
+    margin: 0 10px;
+    color: black;
+
+}
+.content .by{
+    padding: 5px;
+    display: block;
+    float: left;
+    margin: 5px 5px;
+    
+}
+.content .by .mm{
+    color: darkblue;
+}
+.content p{
+    display: inline-block;
+    margin:0 5px;
+    padding: 5px;
+    color: dimgrey;
+}
+.content .line{
+    display: inline-block;
+    text-decoration: line-through;
+    padding: 5px;
+    margin: 0 5px;
+    text-align: center;
+    color: rgb(221, 221, 221);
+
+}
+.content .butt{
+    background-color: cadetblue;
+    color: #DDD;
+    display: block;
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid #0f0;
+}
+.content .link{
+    float: right;
+    text-decoration: none;
+    margin: 20px 5px;
+    font-size: 15px;
+}
